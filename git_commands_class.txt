@@ -1,0 +1,81 @@
+    1  
+    2  cat ITP270Lecture
+    3  clear 
+    4  lsb_release -a 
+    5  clear
+    6  l
+    7  lsb_release -a
+    8  sudo apt update 
+    9  clear
+   10  python3 --version
+   11  git --version
+   12  clear
+   13  git config --global user.name "Janelly Ramirez"
+   14  git config --global user.email "jr27948@email.vccs.edu"
+   15  git config --global color.ui auto
+   16  pwd
+   17  ll
+   18  mkdir ITP270Lecture
+   19  ls
+   20  cd ITP270Lecture/
+   21  ls
+   22  clear
+   23  nano ITP270Lecture2.py
+   24  touch justAFile.py
+   25  ls
+   26  cat justAFile.py
+   27  nano ITP270Lecture2.py
+   28  clear
+   29  cat ITP270Lecture2.py
+   30  python3 ITP270Lecture2.py
+   31  clear
+   32  python3  ITP270Lecture2.py
+   33  git init
+   34  clear
+   35  ls
+   36  pwd
+   37  cd ..
+   38  pwd
+   39  clear
+   40  git clone https://github.com/Janellylol/ITP270-Janelly.git
+   41  ls
+   42  cd ITP270
+   43  pwd
+   44  cd ITP270
+   45  cd..
+   46  pwd
+   47  clear
+   48  git clone https://github.com/Janellylol/ITP270-Janelly.
+   49  clear
+   50  ls
+   51  cd ITP270Lecture/
+   52  ls
+   53  cat ITP270Lecture2.py
+   54  clear
+   55  ls
+   56  help cp
+   57  man cp
+   58  clear
+   59  ls
+   60  cp ITP270Lecture2.py ~/ITP270-Janelly/
+   61  ls
+   62  cd ..
+   63  ls
+   64  cd ITP270-Janelly/
+   65  ls
+   66  clear
+   67  ls
+   68  cd ITP270-Janelly/
+   69  ls
+   70  git status
+   71  clear
+   72  git add -A
+   73  git status
+   74  git commit -m "Adding the file ITP270Lecture2.py"
+   75  git status
+   76  clear
+   77  git push
+   78  clear
+   79  history
+   80  clear
+   81  history > git_commands.txt
